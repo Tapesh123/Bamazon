@@ -15,7 +15,7 @@ This application implements a simple command line based storefront using Node.js
 ### Customer Interface
 The customer interface allows the user to view the current inventory of store items: item IDs, descriptions, department in which the item is located and price. The user is then able to purchase one of the existing items by entering the item ID and the desired quantity. If the selected quantity is currently in stock, the user's order is fulfilled, displaying the total purchase price and updating the store database. 
 
-<!-- ![Image of Customer Interface](https://github.com/radhikabgupta/bamazon/blob/master/assets/Images/customerView.jpg) -->
+![Image of Customer Interface](https://github.com/Tapesh123/Bamazon/blob/master/images/bamzoncustomer.gif)
 
 ### Manager Interface
 The manager interface presents a list of five options: 
@@ -25,7 +25,7 @@ The manager interface presents a list of five options:
 -	Add New Product: If the manager selects Add New Product, it allows the manager to add a new product to the store.
 -	End Session: If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
-<!-- ![Image of Manager Interface](https://github.com/radhikabgupta/bamazon/blob/master/assets/Images/managerView.jpg) -->
+![Image of Manager Interface](https://github.com/Tapesh123/Bamazon/blob/master/images/bamzonmanager.gif)
 
 
 
