@@ -1,0 +1,16 @@
+{
+  "name": "Bamazon_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.2.4",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
