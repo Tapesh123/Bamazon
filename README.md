@@ -30,8 +30,9 @@ The manager interface presents a list of five options:
 ![Image of Manager Interface](https://github.com/Tapesh123/Bamazon/blob/master/images/bamzonmanager.gif)
 
 ### Video Demonstrations:
-Click here for the Customer Video: https://drive.google.com/file/d/1IUhJgorNSgh4zAiBLiQVjphxeeATHu0q/view
-Click here for the Manager Video:https://drive.google.com/file/d/15xkrxYTjGdL5Gxj4-i-vyUjAvx8OCcdn/view
+Click here for the Customer Video: (https://drive.google.com/file/d/1IUhJgorNSgh4zAiBLiQVjphxeeATHu0q/view)
+
+Click here for the Manager Video: (https://drive.google.com/file/d/15xkrxYTjGdL5Gxj4-i-vyUjAvx8OCcdn/view)
 
 
 
