@@ -13,7 +13,7 @@ This application implements a simple command line based storefront using Node.js
     -	cli-table
 ### MySQL Schema Interface
 MySQL Database content and structure. Notice the GIF below please:
-![Image of Customer Interface](https://github.com/Tapesh123/Bamazon/blob/master/images/bamzoncustomer.gif)
+![Image of Customer Interface](https://github.com/Tapesh123/Bamazon/blob/master/images/mysql.gif)
 ### Customer Interface
 The customer interface allows the user to view the current inventory of store items: item IDs, descriptions, department in which the item is located and price. The user is then able to purchase one of the existing items by entering the item ID and the desired quantity. If the selected quantity is currently in stock, the user's order is fulfilled, displaying the total purchase price and updating the store database. 
 
