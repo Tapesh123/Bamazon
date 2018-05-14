@@ -1,4 +1,4 @@
-# bamazon 
+# Bamazon 
 
 This application implements a simple command line based storefront using Node.js and MySQL. There are two interfaces available in this application:  customer, manager.
 
